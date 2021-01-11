@@ -1,0 +1,28 @@
+form {
+    margin-top: 3rem;
+  }
+  
+  form input[name="city"],
+  form input[name="country"] {
+    color: black;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+  }
+
+  form button[name="searchButton"] {
+    background-color: #e67e22;
+    border-radius: 0%;
+    color:white;
+  }
+
+  .error{
+    color: red;
+    font-size: 14px;
+  }
+
+  h1, h2, h3 {
+    color: #e67e22;
+    text-align: center;
+  }
