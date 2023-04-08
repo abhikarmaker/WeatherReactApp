@@ -10,7 +10,7 @@ const Footer = () => {
           <li>© Copyright 2020 Abhijeet Karmaker</li>
           <li>
             Design by{" "}
-            <a title="AbhijeetKarmaker" href="https://github.com/abhikarmaker" target="_blank" rel="noreferrer">              Abhijeet Karmaker
+            <a title="AbhiKarmaker" href="https://github.com/abhikarmaker" target="_blank" rel="noreferrer">              Abhijeet Karmaker
             </a>
           </li>
         </ul>
